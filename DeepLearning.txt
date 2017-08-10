@@ -1,0 +1,4 @@
+http://ufldl.stanford.edu/
+
+从多层感知器到卷积网络（一）
+http://blog.csdn.net/aws3217150/article/details/46316007
